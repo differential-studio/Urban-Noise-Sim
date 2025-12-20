@@ -2,7 +2,7 @@
 A simplified urban noise simulation template using Rhino 3D and Grasshopper to assist in early-stage architectural or landscape design.
 
 ...
-![image](https://www.researchgate.net/profile/Arthur-Popper/publication/228381219/figure/fig1/AS:302027100966912@1449020280153/Typical-Highway-Noise-Levels_W640.jpg)
+![image](https://github.com/daviddrozdz/Urban-Noise-Sim/blob/main/Animation.gif)
 ...
 
 In an era of rapid urbanization and increasing density, understanding acoustic comfort has become crucial for livable city design. Noise pollution, traffic proximity, and inadequate zoning pose risks to public health and resident well-being. Moreover, proper facade orientation and massing are essential for interior acoustic quality. Early-stage noise exposure analysis can help identify potential problem areas before they manifest, leading to more informed design decisions and healthier built environments.
