@@ -1,4 +1,4 @@
-# Urban-Noise-Sim
+# Urban Noise Simulation
 A simplified urban noise simulation template using Rhino 3D and Grasshopper to assist in early-stage architectural or landscape design.
 
 ![image](https://github.com/differential-studio/Urban-Noise-Sim/blob/main/251224_GitHub%20Animation_5.gif) 
